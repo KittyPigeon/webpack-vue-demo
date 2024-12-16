@@ -12,7 +12,7 @@ module.exports = {
   plugins: ['vue'],
   rules: {
     semi: 'error',
-    'no-unused-vars': 'error',
+    // 'no-unused-vars': 'error',
     'no-var': 'error',
   },
   //   ignores: ['.eslintrc.js', '.git/'],

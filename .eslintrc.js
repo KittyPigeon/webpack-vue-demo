@@ -12,8 +12,9 @@ module.exports = {
   plugins: ['vue'],
   rules: {
     semi: 'error',
-    // 'no-unused-vars': 'error',
+    'no-unused-vars': 'warn',
     'no-var': 'error',
+    'vue/multi-word-component-names': 'off',
   },
   //   ignores: ['.eslintrc.js', '.git/'],
 };

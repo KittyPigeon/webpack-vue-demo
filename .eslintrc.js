@@ -4,6 +4,7 @@ module.exports = {
     es2021: true,
     node: true,
   },
+  ignorePatterns: ['webpack.config.js'],
   extends: ['eslint:recommended', 'plugin:vue/essential'],
   parserOptions: {
     ecmaVersion: 15,

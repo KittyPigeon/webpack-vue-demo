@@ -72,8 +72,10 @@
     "webpack-dev-server": "^5.2.0"
   },
   "dependencies": {
+    "await-to-js": "^3.0.0",
     "axios": "^1.7.9",
     "jszip": "^3.10.1",
+    "less": "^4.2.1",
     "pinia": "^2.3.0",
     "vue-router": "^4.5.0"
   }

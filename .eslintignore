@@ -3,3 +3,4 @@
 /build
 /dist
 ./webpack.config.js
+docker-compose.yml
